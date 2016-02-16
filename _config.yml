@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://tarla.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: João Tarla Blog
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "A blog about code and stuff and code" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -21,23 +21,23 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "joao@tarla.com.br"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "tarla"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  "linkedin.com/in/joaotarla"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "joaotarla"
   wordpress:
   youtube:
 
