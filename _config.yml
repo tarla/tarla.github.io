@@ -6,7 +6,7 @@ url: "https://tarla.github.io" # the base hostname & protocol for your site
 theme:
   # Meta
   title: João Tarla Blog
-  avatar: avatar.png
+  avatar: # avatar.png
   gravatar: # Email MD5 hash
   description: "A blog about code and stuff and code" # used by search engines
 
